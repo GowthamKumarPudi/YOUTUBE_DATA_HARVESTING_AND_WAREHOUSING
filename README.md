@@ -1,6 +1,6 @@
 # GUVI_CAPSTONE_PROJECT_YOUTUBE_DATA_HARVESTING_AND_WAREHOUSING
 
-LinkedIn : www.linkedin.com/in/gowtham-kumar-pudi07
+LinkedIn : https://www.linkedin.com/posts/gowtham-kumar-pudi07_dataharvesting-datawarehousing-capstoneproject-activity-7248685499802906625-fuvo?utm_source=share&utm_medium=member_desktop
 
 
 Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels. SQL, MongoDB, and Streamlit are used in the project to develop a user-friendly application that allows users to retrieve, save, and query YouTube channel and video data.
